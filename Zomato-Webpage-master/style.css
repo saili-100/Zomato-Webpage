@@ -29,7 +29,7 @@ body{
     font-weight:600;
 }
 .nav__item:hover {
-    border: 4px solid maroon;
+    border: 4px solid midnightblue;
     cursor: pointer;
 
 }

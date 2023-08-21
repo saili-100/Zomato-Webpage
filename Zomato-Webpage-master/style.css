@@ -88,7 +88,37 @@ body{
     margin-top: -20px;
     margin-bottom: 20px;
 }
-
+.Info__container{
+    margin-top: 10px;
+}
+.input__mail{
+    border:1px solid red;
+    background-color:pink;
+    font-size: medium;
+    height: 30px;
+    border-radius: 2px;
+    size: 50;
+   /* border-color: red; */
+   margin-right: 5px;
+   
+}
+.mail__info{
+    margin-top: 10px;
+}
+.stay__update{
+    font-size: 30px;
+    color:#1d3557;
+    font-weight: 800;
+}
+.think__container{
+    width: 100%;
+    margin-top: 70px;
+}
+.t__container{
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+}
 @media (min-width:768px){
 
     .explore__menu__lists{
@@ -123,6 +153,7 @@ body{
         align-items: center;
     } 
 }
+
 @media (min-width:1024px){
     .explore__menu__text{
         font-size: 48px;

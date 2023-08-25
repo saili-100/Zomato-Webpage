@@ -92,8 +92,19 @@ body{
 .food__description{
     margin-bottom: 15px;
 }
+.View__more{
+    padding:20px;
+    width: 100%;
+    
+}
+.View__more >button{
+    font-size: 20px;
+    margin-right:100px;
+    width:95%;
+}
+
 .Info__container{
-    margin-top: 10px;
+    margin-top: 30px;
 }
 .input__mail{
     border:1px solid red;
